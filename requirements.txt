@@ -1,0 +1,6 @@
+opencv-python
+opencv-contrib-python
+pyclipper
+tensorflow==2.3.0
+shapely
+tqdm
